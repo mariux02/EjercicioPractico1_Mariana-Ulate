@@ -1,0 +1,7 @@
+com\Ejerciciopractico1\domain\libros.class
+com\Ejerciciopractico1\service\librosService.class
+com\Ejerciciopractico1\EjercicioPractico1Application.class
+com\Ejerciciopractico1\service\impl\librosServiceImpl.class
+com\Ejerciciopractico1\ProjectConfig.class
+com\Ejerciciopractico1\controller\librosController.class
+com\Ejerciciopractico1\dao\librosDao.class
