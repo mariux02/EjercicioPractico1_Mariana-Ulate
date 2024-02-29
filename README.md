@@ -1,1 +1,1 @@
-# EjercicioPractico1_Mariana-Ulate
+# EjercicioPractico1_MarianaUlate
